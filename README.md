@@ -43,17 +43,4 @@ The system can be used in applications like **security authentication, attendanc
 
 ---
 
-## ⚙️ Installation  
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/face-recognition-cnn.git
-cd face-recognition-cnn
-
-# Create a virtual environment (optional but recommended)
-python -m venv venv
-source venv/bin/activate   # Linux/Mac
-venv\Scripts\activate      # Windows
-
-# Install dependencies
-pip install -r requirements.txt
